@@ -1,0 +1,15 @@
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\bin\Debug\net6.0\dekokJMiniCh#9.exe
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\bin\Debug\net6.0\dekokJMiniCh#9.deps.json
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\bin\Debug\net6.0\dekokJMiniCh#9.runtimeconfig.json
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\bin\Debug\net6.0\dekokJMiniCh#9.dll
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\bin\Debug\net6.0\dekokJMiniCh#9.pdb
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\obj\Debug\net6.0\dekokJMiniCh#9.csproj.AssemblyReference.cache
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\obj\Debug\net6.0\dekokJMiniCh#9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\obj\Debug\net6.0\dekokJMiniCh#9.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\obj\Debug\net6.0\dekokJMiniCh#9.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\obj\Debug\net6.0\dekokJMiniCh#9.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\obj\Debug\net6.0\dekokJMiniCh#9.dll
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\obj\Debug\net6.0\refint\dekokJMiniCh#9.dll
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\obj\Debug\net6.0\dekokJMiniCh#9.pdb
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\obj\Debug\net6.0\dekokJMiniCh#9.genruntimeconfig.cache
+C:\Users\jacob\OneDrive\Documents\CodeStack\Level#1\Homework\dekokJMiniCh#9\obj\Debug\net6.0\ref\dekokJMiniCh#9.dll
