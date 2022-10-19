@@ -63,7 +63,7 @@ while(pickAgain == "YES"){
 
         break;
 
-        case "dineIn":
+        case "dinein":
 
         validChoice = true;
 
