@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\Level#1\\Homework\\dekokJMiniCh#9\\dekokJMiniCh#9.csproj": {}
+    "C:\\Users\\crest\\OneDrive\\Desktop\\GetRepository\\dekokJMiniCh-9-1\\dekokJMiniCh#9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\Level#1\\Homework\\dekokJMiniCh#9\\dekokJMiniCh#9.csproj": {
+    "C:\\Users\\crest\\OneDrive\\Desktop\\GetRepository\\dekokJMiniCh-9-1\\dekokJMiniCh#9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\Level#1\\Homework\\dekokJMiniCh#9\\dekokJMiniCh#9.csproj",
+        "projectUniqueName": "C:\\Users\\crest\\OneDrive\\Desktop\\GetRepository\\dekokJMiniCh-9-1\\dekokJMiniCh#9.csproj",
         "projectName": "dekokJMiniCh#9",
-        "projectPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\Level#1\\Homework\\dekokJMiniCh#9\\dekokJMiniCh#9.csproj",
-        "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\Level#1\\Homework\\dekokJMiniCh#9\\obj\\",
+        "projectPath": "C:\\Users\\crest\\OneDrive\\Desktop\\GetRepository\\dekokJMiniCh-9-1\\dekokJMiniCh#9.csproj",
+        "packagesPath": "C:\\Users\\crest\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\crest\\OneDrive\\Desktop\\GetRepository\\dekokJMiniCh-9-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\crest\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
